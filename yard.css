@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    display: inline-block;
+    margin-left : 75px;
+    margin-top:20px;
+}
+.navbar{
+    height: 60px;
+    background-color:#0f1111;
+    color:aliceblue;
+}
+a{
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top:20px;
+    text-decoration: none;
+    color:aliceblue;
+}
+#search{
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top:20px;
+}
+button{
+    margin-left : 75px;
+    margin-top:20px;
+}
+#xyz{
+    height: 20px;
+    background-color: #222f3d; 
+}
+#picture{
+    background-image: url("nike4.jpg");
+    height: 600px;
+    background-size:cover ;
+}
+footer{
+    height: 75px;
+    background-color: #222f3d; 
+}
